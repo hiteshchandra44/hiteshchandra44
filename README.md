@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hitesh Chandra Obili</h1>
 <h3 align="center">I'm an aspiring ML Engineer</h3>
 
-- 🔭 I’m currently working on [CricVis](https://github.com/hiteshchandra44/CricVis)
+- 🔭 I’m currently working as a ML/Data Engineer at [Cloud Ambassadors](https://cloudambassadors.com/)
 
-- 🌱 I’m currently learning **Programming Languages: Python and C++ Machine Learning & AI: XGBoost, LSTM, Vertex AI, Gemini, TensorFlow, Scikit-learn, YOLO, OpenCV Cloud Platforms: Google Cloud Platform (Vertex AI, GCS), AWS (Athena, Lambda, Glue, S3) Web & Dashboard Development: Streamlit, HTML/CSS Data Analytics: Databricks, PySpark, Pandas, NumPy, Matplotlib, Glue Crawlers MLOps & Deployment: Serverless Architectures, Model Optimization, REST APIs Vector Databases & Retrieval Systems: pgvector, Vector Search, Embedding-based Querying Version Control & Collaboration: Git, GitHub, Google Colab, VS Code, Jupyter Tools & Platforms: Gemini API, GCP AutoML, AWS Glue, Databricks Community Ed.**
+- 🌱 My Skill Set: **Programming Languages: Python and C++ Machine Learning & AI: XGBoost, LSTM, Vertex AI, Gemini, TensorFlow, Scikit-learn, YOLO, OpenCV Cloud Platforms: Google Cloud Platform (Vertex AI, GCS), AWS (Athena, Lambda, Glue, S3) Web & Dashboard Development: Streamlit, HTML/CSS Data Analytics: Databricks, PySpark, Pandas, NumPy, Matplotlib, Glue Crawlers MLOps & Deployment: Serverless Architectures, Model Optimization, REST APIs Vector Databases & Retrieval Systems: pgvector, Vector Search, Embedding-based Querying Version Control & Collaboration: Git, GitHub, Google Colab, VS Code, Jupyter Tools & Platforms: Gemini API, GCP AutoML, AWS Glue, Databricks Community Ed.**
 
 - 👯 I’m looking to collaborate on [ElectroCloud](https://github.com/hiteshchandra44/ElectroCloud)
 
